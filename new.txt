@@ -1,0 +1,25 @@
+commit 037cc39b71bccc31df58f78e04d603f687013f98 (HEAD -> master)
+Author: Roman <romanshe@gmail.com>
+Date:   Tue Jan 14 12:06:52 2020 +0600
+
+    Revert "Rearrange the items to bring on an outdoor trip"
+
+    This reverts commit ff61cc495a149052263bc98455da1cb8665627d3.
+
+commit ff61cc495a149052263bc98455da1cb8665627d3
+Author: Roman <romanshe@gmail.com>
+Date:   Tue Jan 14 11:40:56 2020 +0600
+
+    Rearrange the items to bring on an outdoor trip
+
+commit b534d6f57b60dd4a14882ffd9e20c4fa7c0133d3
+Author: Roman <romanshe@gmail.com>
+Date:   Tue Jan 14 11:25:31 2020 +0600
+
+    Removed contractions from contacts page
+
+commit 729310144dd72af050a6aa0fdf2095ad3539d2b4
+Author: Roman <romanshe@gmail.com>
+Date:   Tue Jan 14 11:24:59 2020 +0600
+
+    Renamed Backpack Cal file for clarity
